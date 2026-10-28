@@ -1,0 +1,27 @@
+{
+    "kashifahmad@gmail.com": {
+        "name": "kashif ahmad",
+        "password": "e2bdaa2e31d7bdb988c29f3a957702e473e5d982b2ce25aed19d6378a3a4fc75",
+        "role": "customer"
+    },
+    "ahmad@gmail.com": {
+        "name": "ahmad",
+        "password": "8d80b8a335e2f40a11a13ebdfac0ca9e422398142d1c67227d56121dbcdbd7f5",
+        "role": "customer"
+    },
+    "usmankhan@gmail.com": {
+        "name": "usman khan",
+        "password": "3f970ba9581b6e4b54c6a9a67d40a495ccf8c044289aa8638cdae2fe5e09a3e5",
+        "role": "customer"
+    },
+    "sultan@gmail.com": {
+        "name": "sultan",
+        "password": "bdc10f713408845a15291fa86259ee7cd5d527f66d6f474912ad680ce66787bb",
+        "role": "customer"
+    },
+    "ali@gmail.ocm": {
+        "name": "ali",
+        "password": "b945c0252a6d9db655c57fcf63fc9506165ba84cbad4590c3cf4e877cf48ce4a",
+        "role": "customer"
+    }
+}
